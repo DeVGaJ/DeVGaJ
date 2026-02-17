@@ -1,6 +1,6 @@
 # Hi there, I'm DeVGaJ! 👋
 
-![DeVGaJ](https://image2url.com/r2/default/images/1771310108519-ca5e7633-338e-4ae8-a57c-d125cdcaeac3.jpg)
+![DeVGaJ](https://i.imgur.com/lvZ3V64.jpeg)
 
 ### 🚀 About Me
 I'm a developer focused on building clean, efficient, and dark-themed digital experiences. I love exploring new technologies and pushing the boundaries of what's possible with code.
