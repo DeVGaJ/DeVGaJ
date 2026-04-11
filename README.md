@@ -14,7 +14,9 @@ I'm a developer focused on building clean, efficient, and dark-themed digital ex
 ---
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/ba34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -23,8 +25,7 @@ I'm a developer focused on building clean, efficient, and dark-themed digital ex
 ---
 
 ### 📊 GitHub Stats
-![Noob](https://github-readme-stats.vercel.app/api?username=DeVGaJ&show_icons=true&theme=tokyonight)
-![C](https://github-readme-stats.vercel.app/api/top-langs/?username=DeVGaJ&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeVGaJ)](https://git.io/streak-stats)
 
 ---
 
