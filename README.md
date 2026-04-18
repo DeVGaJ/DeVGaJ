@@ -2,7 +2,7 @@
 
 ![DeVGaJ](https://i.imgur.com/lvZ3V64.jpeg)
 
-![](https://komarev.com/ghpvc/?username=DeVGaJ&color=blueviolet)
+![](https://visitcount.itsvg.in/api?id=DeVGaJ&label=Profile%20Views&color=8&icon=8&pretty=true)
 
 ### 🚀 About Me
 I'm a developer focused on building clean, efficient, and dark-themed digital experiences. I love exploring new technologies and pushing the boundaries of what's possible with code.
